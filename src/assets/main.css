@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  color: inherit;
+  font-size: inherit;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, a, strong, blockquote, i, b, u, em, ul {
+  font-size: 1em;
+  font-weight: inherit;
+  font-style: inherit;
+  text-decoration: none;
+  color: inherit;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

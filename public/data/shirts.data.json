@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "/images/shirts/camiseta_1.png",
+    "idCategory": "1",
+    "color": "Red",
+    "name": "Camiseta 1",
+    "stock": 4,
+    "sizes": ["S", "M", "L"],
+    "price": 120.00,
+    "seller": "Jaime Jensen"
+  },
+  {
+    "id": 2,
+    "image": "/images/shirts/camiseta_2.png",
+    "idCategory": "1",
+    "color": "Blue",
+    "name": "Camiseta 2",
+    "stock": 50,
+    "sizes": ["S", "M", "L"],
+    "price": 160.00,
+    "seller": "Jaime Jensen"
+  },
+  {
+    "id": 3,
+    "image": "/images/shirts/camiseta_3.png",
+    "idCategory": "1",
+    "color": "Green",
+    "name": "Camiseta 3",
+    "stock": 14,
+    "sizes": ["S", "M", "L"],
+    "price": 69.00,
+    "seller": "Alvaro Alvarez"
+  },
+  {
+    "id": 4,
+    "image": "/images/shirts/camiseta_4.png",
+    "idCategory": "1",
+    "color": "Black",
+    "name": "Camiseta 4",
+    "stock": 20,
+    "sizes": ["S", "M", "L"],
+    "price": 145.00,
+    "seller": "Alvaro Alvarez"
+  },
+  {
+    "id": 5,
+    "image": "/images/shirts/camiseta_5.png",
+    "idCategory": "2",
+    "color": "White",
+    "name": "Camiseta 5",
+    "stock": 89,
+    "sizes": ["S", "M", "L"],
+    "price": 199.00,
+    "seller": "Alvaro Alvarez"
+  },
+  {
+    "id": 6,
+    "image": "/images/shirts/camiseta_6.png",
+    "idCategory": "2",
+    "color": "Yellow",
+    "name": "Camiseta 6",
+    "stock": 27,
+    "sizes": ["S", "M", "L"],
+    "price": 60.00,
+    "seller": "Carlos Castro"
+  },
+  {
+    "id": 7,
+    "image": "/images/shirts/camiseta_7.png",
+    "idCategory": "2",
+    "color": "Yellow",
+    "name": "Camiseta 7",
+    "stock": 25,
+    "sizes": ["S", "M", "L"],
+    "price": 109.00,
+    "seller": "Patricio Perez"
+  },
+  {
+    "id": 8,
+    "image": "/images/shirts/camiseta_8.png",
+    "idCategory": "2",
+    "color": "Gray",
+    "name": "Camiseta 8",
+    "stock": 40,
+    "sizes": ["S", "M", "L"],
+    "price": 110.00,
+    "seller": "Rodrigo Ramirez"
+  },
+  {
+    "id": 9,
+    "image": "/images/shirts/camiseta_9.png",
+    "idCategory": "3",
+    "color": "Purple",
+    "name": "Camiseta 9",
+    "stock": 14,
+    "sizes": ["S", "M", "L"],
+    "price": 169.00,
+    "seller": "Carlos Castro"
+  },
+  {
+    "id": 10,
+    "image": "/images/shirts/camiseta_10.png",
+    "idCategory": "3",
+    "color": "Purple",
+    "name": "Camiseta 10",
+    "stock": 43,
+    "sizes": ["S", "M", "L"],
+    "price": 129.00,
+    "seller": "Rodrigo Ramirez"
+  },
+  {
+    "id": 11,
+    "image": "/images/shirts/camiseta_11.png",
+    "idCategory": "3",
+    "color": "Red",
+    "name": "Camiseta 11",
+    "stock": 12,
+    "sizes": ["S", "M", "L"],
+    "price": 79.00,
+    "seller": "Jaime Jensen"
+  },
+  {
+    "id": 12,
+    "image": "/images/shirts/camiseta_12.png",
+    "idCategory": "3",
+    "color": "Yellow",
+    "name": "Camiseta 12",
+    "stock": 40,
+    "sizes": ["S", "M", "L"],
+    "price": 79.00,
+    "seller": "Rodrigo Ramirez"
+  }
+]
