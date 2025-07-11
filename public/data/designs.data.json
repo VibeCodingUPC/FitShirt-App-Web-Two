@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Polo Peruano",
+    "image": "/images/shirts/camiseta_1.png",
+    "color": "Rojo",
+    "secundario": "Blanco",
+    "terciario": "Rojo",
+    "escudo": "Ramex"
+  },
+  {
+    "id": "2",
+    "name": "Polo pecho oscuro",
+    "image": "/images/shirts/camiseta_2.png",
+    "color": "Azul",
+    "secundario": "Celeste",
+    "terciario": "Rojo",
+    "escudo": "Ramex"
+  },
+  {
+    "id": "3",
+    "name": "Polo verde",
+    "image": "/images/shirts/camiseta_3.png",
+    "color": "Verde",
+    "secundario": "Celeste",
+    "terciario": "Blanco",
+    "escudo": "Ramex"
+  },
+  {
+    "id": "4",
+    "name": "negro",
+    "image": "/images/shirts/camiseta_4.png",
+    "color": "Negro",
+    "secundario": "Gris",
+    "terciario": "Gris",
+    "escudo": "Ramex"
+  }]
