@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Red"
+  },
+  {
+    "id": 2,
+    "name": "Yellow"
+  },
+  {
+    "id": 3,
+    "name": "Purple"
+  },
+  {
+    "id": 4,
+    "name": "Gray"
+  },
+  {
+    "id": 5,
+    "name": "White"
+  },
+  {
+    "id": 6,
+    "name": "Black"
+  },
+  {
+    "id": 7,
+    "name": "Green"
+  },
+  {
+    "id": 8,
+    "name": "Blue"
+  }
+]
