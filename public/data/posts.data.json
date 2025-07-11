@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "image": "/images/shirts/camiseta_1.png",
+    "category": "",
+    "color": "",
+    "name": "Polo rojo con franjas rojas",
+    "stock": 2,
+    "sizes": ["S", "M", "L"],
+    "price": 120.00
+  },
+  {
+    "id": "2",
+    "image": "/images/shirts/camiseta_2.png",
+    "category": "",
+    "color": "",
+    "name": "Polo azul con franjas negras",
+    "stock": 3,
+    "sizes": ["X", "XL", "M"],
+    "price": 150.00
+  },
+  {
+    "id": "3",
+    "image": "/images/shirts/camiseta_3.png",
+    "category": "",
+    "color": "",
+    "name": "Polo verde",
+    "stock": 5,
+    "sizes": ["S", "XL", "M"],
+    "price": 69.00
+  },
+  {
+    "id": "4",
+    "image": "/images/shirts/camiseta_4.png",
+    "category": "",
+    "color": "",
+    "name": "Polo negro con diseño",
+    "stock": 10,
+    "sizes": ["S", "M", "L"],
+    "price": 100.00
+  }
+
+]
