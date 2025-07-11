@@ -1,0 +1,440 @@
+{
+  "shirts": [
+    {
+      "id": "1",
+      "image": "/images/shirts/camiseta_1.png",
+      "category": "Football",
+      "color": "Red",
+      "name": "Camiseta 1",
+      "stock": 4,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 120,
+      "seller": "Jaime Jensen"
+    },
+    {
+      "id": "2",
+      "image": "/images/shirts/camiseta_2.png",
+      "category": "Football",
+      "color": "Blue",
+      "name": "Camiseta 2",
+      "stock": 50,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 160,
+      "seller": "Jaime Jensen"
+    },
+    {
+      "id": "3",
+      "image": "/images/shirts/camiseta_3.png",
+      "category": "Football",
+      "color": "Green",
+      "name": "Camiseta 3",
+      "stock": 14,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 69,
+      "seller": "Alvaro Alvarez"
+    },
+    {
+      "id": "4",
+      "image": "/images/shirts/camiseta_4.png",
+      "category": "Football",
+      "color": "Black",
+      "name": "Camiseta 4",
+      "stock": 20,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 145,
+      "seller": "Alvaro Alvarez"
+    },
+    {
+      "id": "5",
+      "image": "/images/shirts/camiseta_5.png",
+      "category": "Volleyball",
+      "color": "White",
+      "name": "Camiseta 5",
+      "stock": 89,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 199,
+      "seller": "Alvaro Alvarez"
+    },
+    {
+      "id": "6",
+      "image": "/images/shirts/camiseta_6.png",
+      "category": "Volleyball",
+      "color": "Yellow",
+      "name": "Camiseta 6",
+      "stock": 27,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 60,
+      "seller": "Carlos Castro"
+    },
+    {
+      "id": "7",
+      "image": "/images/shirts/camiseta_7.png",
+      "category": "Volleyball",
+      "color": "Yellow",
+      "name": "Camiseta 7",
+      "stock": 25,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 109,
+      "seller": "Patricio Perez"
+    },
+    {
+      "id": "8",
+      "image": "/images/shirts/camiseta_8.png",
+      "category": "Volleyball",
+      "color": "Gray",
+      "name": "Camiseta 8",
+      "stock": 40,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 110,
+      "seller": "Rodrigo Ramirez"
+    },
+    {
+      "id": "9",
+      "image": "/images/shirts/camiseta_9.png",
+      "category": "Basketball",
+      "color": "Purple",
+      "name": "Camiseta 9",
+      "stock": 14,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 169,
+      "seller": "Carlos Castro"
+    },
+    {
+      "id": "10",
+      "image": "/images/shirts/camiseta_10.png",
+      "category": "Basketball",
+      "color": "Purple",
+      "name": "Camiseta 10",
+      "stock": 43,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 129,
+      "seller": "Rodrigo Ramirez"
+    },
+    {
+      "id": "11",
+      "image": "/images/shirts/camiseta_11.png",
+      "category": "Basketball",
+      "color": "Red",
+      "name": "Camiseta 11",
+      "stock": 12,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 79,
+      "seller": "Jaime Jensen"
+    },
+    {
+      "id": "12",
+      "image": "/images/shirts/camiseta_12.png",
+      "category": "Basketball",
+      "color": "Yellow",
+      "name": "Camiseta 12",
+      "stock": 40,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 79,
+      "seller": "Rodrigo Ramirez"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Football"
+    },
+    {
+      "id": "2",
+      "name": "Volleyball"
+    },
+    {
+      "id": "3",
+      "name": "Basketball"
+    }
+  ],
+  "designs": [
+    {
+      "id": "1",
+      "name": "Polo Peruano",
+      "image": "/images/shirts/camiseta_1.png",
+      "color": "Red",
+      "secundario": "White",
+      "terciario": "Red",
+      "escudo": "Real Madrid CF"
+    },
+    {
+      "id": "2",
+      "name": "Polo pecho oscuro",
+      "image": "/images/shirts/camiseta_2.png",
+      "color": "Blue",
+      "secundario": "Gray",
+      "terciario": "Red",
+      "escudo": "Manchester United FC"
+    },
+    {
+      "id": "9d17",
+      "name": "New shirt",
+      "image": "/images/shirts/camiseta-personalizada.png",
+      "color": "Yellow",
+      "secundario": "Yellow",
+      "terciario": "Gray",
+      "escudo": "Paris Saint-Germain"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "image": "/images/shirts/camiseta_1.png",
+      "category": "Football",
+      "color": "Red",
+      "name": "Polo rojo con franjas rojas",
+      "styles": "Deportivo Manga Corta",
+      "stock": "8",
+      "sizes": [
+        "M",
+        "XL"
+      ],
+      "price": "321312"
+    },
+    {
+      "id": "2",
+      "image": "/images/shirts/camiseta_2.png",
+      "category": "Football",
+      "color": "Blue",
+      "name": "Polo Francia",
+      "styles": "Deportivo Manga Corta",
+      "stock": "12",
+      "sizes": [
+        "X",
+        "M"
+      ],
+      "price": "150"
+    },
+    {
+      "id": "3",
+      "image": "/images/shirts/camiseta_3.png",
+      "category": "Volleyball",
+      "color": "Green",
+      "name": "Polo verde",
+      "styles": "Deportivo Manga Corta",
+      "stock": 5,
+      "sizes": [
+        "S",
+        "XL",
+        "M"
+      ],
+      "price": 69
+    },
+    {
+      "id": "4",
+      "image": "/images/shirts/camiseta_4.png",
+      "category": "Football",
+      "color": "Black",
+      "name": "Polo negro con diseño",
+      "styles": "Deportivo Manga Corta",
+      "stock": "9",
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "price": "101"
+    },
+    {
+      "id": "3bc5",
+      "image": "/images/shirts/camiseta_1.png",
+      "category": "Volleyball",
+      "color": "Yellow",
+      "name": "diseño prueba",
+      "stock": 0,
+      "size": "",
+      "price": 0,
+      "sizes": "L",
+      "posts": "Yellow"
+    },
+    {
+      "id": "3440",
+      "image": "https://static.nike.com/a/images/t_default/5d620a0d-3c9d-42c3-8eeb-ec3c6a0a8d79/richarlison-tottenham-hotspur-2023-24-stadium-third-mens-dri-fit-soccer-jersey-wS35T4.png",
+      "category": "Football",
+      "color": "Purple",
+      "name": "Test 1",
+      "stock": "10",
+      "sizes": [
+        "S",
+        "XL",
+        "M"
+      ],
+      "price": "99.5"
+    },
+    {
+      "id": "a0a6",
+      "image": "https://texsamex.pe/wp-content/uploads/2021/11/41.png",
+      "category": "Volleyball",
+      "color": "Yellow",
+      "name": "Test 2",
+      "stock": "50",
+      "sizes": [
+        "S",
+        "XL"
+      ],
+      "price": "99.60"
+    },
+    {
+      "id": "adc7",
+      "image": "https://texsamex.pe/wp-content/uploads/2021/11/41.png",
+      "category": "Volleyball",
+      "color": "Yellow",
+      "name": "fsd",
+      "stock": "12",
+      "sizes": [
+        "S"
+      ],
+      "price": "421"
+    }
+  ],
+  "color": [
+    {
+      "id": "1",
+      "name": "Red"
+    },
+    {
+      "id": "2",
+      "name": "Yellow"
+    },
+    {
+      "id": "3",
+      "name": "Purple"
+    },
+    {
+      "id": "4",
+      "name": "Gray"
+    },
+    {
+      "id": "5",
+      "name": "White"
+    },
+    {
+      "id": "6",
+      "name": "Black"
+    },
+    {
+      "id": "7",
+      "name": "Green"
+    },
+    {
+      "id": "8",
+      "name": "Blue"
+    }
+  ],
+  "sizes": [
+    {
+      "id": "1",
+      "name": "S"
+    },
+    {
+      "id": "2",
+      "name": "M"
+    },
+    {
+      "id": "3",
+      "name": "L"
+    },
+    {
+      "id": "4",
+      "name": "XL"
+    }
+  ],
+  "shield": [
+    {
+      "id": "1",
+      "name": "Real Madrid CF"
+    },
+    {
+      "id": "2",
+      "name": "FC Barcelona"
+    },
+    {
+      "id": "3",
+      "name": "Manchester United FC"
+    },
+    {
+      "id": "5",
+      "name": "Bayern Munich"
+    },
+    {
+      "id": "6",
+      "name": "AC Milan"
+    },
+    {
+      "id": "7",
+      "name": "Liverpool FC"
+    },
+    {
+      "id": "8",
+      "name": "Chelsea FC"
+    },
+    {
+      "id": "9",
+      "name": "Paris Saint-Germain"
+    },
+    {
+      "id": "10",
+      "name": "Borussia Dortmund"
+    }
+  ],
+  "cart": [
+    {
+      "id": "bd8a",
+      "name": "Camiseta 3",
+      "image": "/images/shirts/camiseta_3.png",
+      "category": "Football",
+      "color": "Green",
+      "quantity": 2,
+      "size": "S",
+      "price": 69
+    }
+  ]
+}
