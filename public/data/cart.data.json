@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image": "/images/shirts/camiseta_1.png",
+    "idCategory": "1",
+    "color": "Red",
+    "name": "Camiseta 1",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 2,
+    "image": "/images/shirts/camiseta_2.png",
+    "idCategory": "1",
+    "color": "Blue",
+    "name": "Camiseta 2",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 3,
+    "image": "/images/shirts/camiseta_3.png",
+    "idCategory": "1",
+    "color": "Green",
+    "name": "Camiseta 3",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 4,
+    "image": "/images/shirts/camiseta_4.png",
+    "idCategory": "1",
+    "color": "Black",
+    "name": "Camiseta 4",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 5,
+    "image": "/images/shirts/camiseta_5.png",
+    "idCategory": "2",
+    "color": "White",
+    "name": "Camiseta 5",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 6,
+    "image": "/images/shirts/camiseta_6.png",
+    "idCategory": "2",
+    "color": "Yellow",
+    "name": "Camiseta 6",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 7,
+    "image": "/images/shirts/camiseta_7.png",
+    "idCategory": "2",
+    "color": "Yellow",
+    "name": "Camiseta 7",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 8,
+    "image": "/images/shirts/camiseta_8.png",
+    "idCategory": "2",
+    "color": "Gray",
+    "name": "Camiseta 8",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 9,
+    "image": "/images/shirts/camiseta_9.png",
+    "idCategory": "3",
+    "color": "Purple",
+    "name": "Camiseta 9",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 10,
+    "image": "/images/shirts/camiseta_10.png",
+    "idCategory": "3",
+    "color": "Purple",
+    "name": "Camiseta 10",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 11,
+    "image": "/images/shirts/camiseta_11.png",
+    "idCategory": "3",
+    "color": "Red",
+    "name": "Camiseta 11",
+    "quantity": "2",
+    "price":"200"
+  },
+  {
+    "id": 12,
+    "image": "/images/shirts/camiseta_12.png",
+    "idCategory": "3",
+    "color": "Yellow",
+    "name": "Camiseta 12",
+    "quantity": "2",
+    "price":"200"
+  }
+]
