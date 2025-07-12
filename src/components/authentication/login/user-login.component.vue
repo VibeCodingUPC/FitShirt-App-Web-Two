@@ -48,6 +48,7 @@ const handleLogin = async () => {
       let userRole = decodedToken.Role;
 
       sessionStorage.setItem('userRole', decodedToken.Role);
+      sessionStorage.setItem('userIdF', decodedToken.sid);
 
       if (userRole === 'CLIENT') {
         router.push('/client-dashboard');

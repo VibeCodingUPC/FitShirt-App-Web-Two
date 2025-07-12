@@ -7,11 +7,6 @@
         <p><b>Color:</b> {{ clientInformation.color }}</p>
         <p><b>Material:</b> {{ clientInformation.material }}</p>
         <p><b>Fecha solicitada:</b> {{ clientInformation.requestDate }}</p>
-    
-        <!-- Botón para contactar por WhatsApp -->
-        <a :href="whatsappLink" target="_blank" class="contact-whatsapp">
-          Contactar por WhatsApp
-        </a>
       </div>
       
       <div class="client-image">
